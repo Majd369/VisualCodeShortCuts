@@ -1,0 +1,38 @@
+#Visual Studio Code Shortcuts
+
+- Emmet Abrreviation : 
+1) ! + Tab 
+2) ul>li*10>span.elzero :
+
+    <ul>
+    <li><span class="elzero"></span></li>
+    <li><span class="elzero"></span></li>
+    <li><span class="elzero"></span></li>
+    <li><span class="elzero"></span></li>
+    <li><span class="elzero"></span></li>
+    <li><span class="elzero"></span></li>
+    <li><span class="elzero"></span></li>
+    <li><span class="elzero"></span></li>
+    <li><span class="elzero"></span></li>
+    <li><span class="elzero"></span></li>
+  </ul>
+  
+  - CTR + Shift + k : To Delete a Line
+  
+  - CTR + Shift + Z : To Recover The Line You Delete + going back to the previous state
+  
+  - CTR + f : Find in files 
+  
+  -  CTR + Shif + F : Find in files Global 
+  
+  -  CTR + H : To Make Replace And Changes on different lines on the same times 
+  
+  - Shift + Alt + F : For formatting the code lines 
+  
+  - CTR + / : For Commenting
+  
+   - Shift+Up and Shift+Down : Move code lines up and down
+   
+  
+
+ 
